@@ -4,6 +4,8 @@ Simple chrome extension that displays the **coolest** emoji rain on your browser
 
 ## Example
 
+![screely-1666130594738](https://user-images.githubusercontent.com/44983373/196610618-516eeff0-c7e7-4e6d-8ab0-e3378067bc6d.png)
+
 ## Installation
 
 1. Clone this repo

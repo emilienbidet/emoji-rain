@@ -1,0 +1,5 @@
+# Mac
+.DS_Store
+
+# Extension private key
+emoji-rain.pem

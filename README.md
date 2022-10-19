@@ -4,7 +4,7 @@ Simple chrome extension that displays the **coolest** emoji rain on your browser
 
 ## Example
 
-![screely-1666130594738](https://user-images.githubusercontent.com/44983373/196610618-516eeff0-c7e7-4e6d-8ab0-e3378067bc6d.png)
+![Emoji rain Chrome extension screenshot](https://user-images.githubusercontent.com/44983373/196610618-516eeff0-c7e7-4e6d-8ab0-e3378067bc6d.png)
 
 ## Installation
 
@@ -22,6 +22,12 @@ Simple chrome extension that displays the **coolest** emoji rain on your browser
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Roadmap
+
+- [ ] Add emojis customization
+- [ ] Add turn on/off button
+- [ ] Add more emojis
 
 ## Special thanks
 

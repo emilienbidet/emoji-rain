@@ -31,6 +31,7 @@ Simple chrome extension that displays the **coolest** emoji rain on your browser
 
 ## Special thanks
 
+- [@minot0r](https://github.com/minot0r) for the inspiration
 - [Emoji rain code pen](https://codepen.io/robertheiser/pen/NXrqXa) of [Robert Heiser](https://www.behance.net/robertheiser)
 - [The original code pen](https://codepen.io/rachsmith/pen/xwbLWg) of [Rachel Smith](https://codepen.io/rachsmith)
 

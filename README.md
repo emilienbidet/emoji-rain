@@ -28,6 +28,7 @@ Simple chrome extension that displays the **coolest** emoji rain on your browser
 - [ ] Add emojis customization
 - [ ] Add turn on/off button
 - [ ] Add more emojis
+- [ ] Add emojis presets (Nature, Food, Love, Colors...)
 
 ## Special thanks
 

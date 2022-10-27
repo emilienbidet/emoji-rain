@@ -1,6 +1,7 @@
 # Emoji rain
 
 Simple chrome extension that displays the **coolest** emoji rain on your browser.
+
 It's available on the [Chrome marketplace](https://chrome.google.com/webstore/detail/emoji-rain/ihjaockbgnlejfkojoekkaklklmodfnf).
 
 ## Example

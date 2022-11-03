@@ -2,11 +2,17 @@
 
 Simple chrome extension that displays the **coolest** emoji rain on your browser.
 
+It's available on the [Chrome marketplace](https://chrome.google.com/webstore/detail/emoji-rain/ihjaockbgnlejfkojoekkaklklmodfnf).
+
 ## Example
 
 ![Emoji rain Chrome extension screenshot](https://user-images.githubusercontent.com/44983373/196610618-516eeff0-c7e7-4e6d-8ab0-e3378067bc6d.png)
 
 ## Installation
+
+Get it from the [Chrome marketplace](https://chrome.google.com/webstore/detail/emoji-rain/ihjaockbgnlejfkojoekkaklklmodfnf)
+
+Or clone the repo and start hack it locally
 
 1. Clone this repo
 2. Open chrome://extensions

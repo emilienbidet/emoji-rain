@@ -147,12 +147,14 @@ function rainEmoji() {
 }
 
 chrome.action.onClicked.addListener((tab) => {
-  chrome.scripting.insertCSS({
-    target: { tabId: tab.id },
-    files: ["style.css"],
-  });
-  chrome.scripting.executeScript({
-    target: { tabId: tab.id },
-    function: rainEmoji,
-  });
+  if (!tab.url.includes("chrome://")) {
+    chrome.scripting.insertCSS({
+      target: { tabId: tab.id },
+      files: ["style.css"],
+    });
+    chrome.scripting.executeScript({
+      target: { tabId: tab.id },
+      function: rainEmoji,
+    });
+  }
 });

@@ -1,8 +1,8 @@
 {
   "name": "Emoji rain",
   "manifest_version": 3,
-  "version": "0.1",
-  "description": "Start raining emojis on the current page when you click the extension icon. It's raining men!",
+  "version": "0.0.0.1",
+  "description": "Emoji rain",
   "icons": {
     "16": "icon16.png",
     "32": "icon32.png",
